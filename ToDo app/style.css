@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: rgb(182, 224, 235);
+}
+#addBtn, #delAllBtn{
+    background-color:indianred;
+    color: cornsilk;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+#ToDo-item{
+    border-radius: 4px;
+    border-color: dimgrey;
+    background-color: goldenrod;
+    padding: 7px;
+}
+#list{
+    color: goldenrod;
+}
+.delBtn{
+    background-color: khaki;
+    padding: 5px;
+    margin-left: 10px;
+    border-radius: 4px;
+    
+}
+.editBtn{
+    background-color: khaki;
+    padding: 5px;
+    margin-left: 10px;
+    border-radius: 4px;
+   
+}
